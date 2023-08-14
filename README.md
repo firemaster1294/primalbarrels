@@ -1,6 +1,8 @@
 # primalbarrels
 Really, really early game storage in Minecraft
 
+https://www.curseforge.com/minecraft/mc-mods/primal-barrels
+
 This mod consists of 3 new barrels: one with 1x9 slots, one with 2x7 slots, and one with 2x9 slots.
 
 These are intended for modpacks that need some limited form of early game storage.
