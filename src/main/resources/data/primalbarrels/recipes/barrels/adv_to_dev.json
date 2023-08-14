@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        " s ",
+        "sbs",
+        " s "
+    ],
+    "key":{
+        "s":{"tag":"minecraft:wooden_slabs"},
+        "b":{"item":"primalbarrels:advanced_primal_barrel"}
+    },
+    "result":{"item":"primalbarrels:developed_primal_barrel"}
+}

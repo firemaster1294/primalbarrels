@@ -1,0 +1,9 @@
+{
+  "block.primalbarrels.primal_barrel": "Primal Barrel",
+  "block.primalbarrels.advanced_primal_barrel": "Advanced Primal Barrel",
+  "block.primalbarrels.developed_primal_barrel": "Developed Primal Barrel",
+
+  "itemGroup.primalbarrels": "Primal Barrels",
+
+  "primalbarrels.in_use": "Barrel is in Use"
+}

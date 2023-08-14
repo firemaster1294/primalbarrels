@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "primalbarrels:primal_barrel",
+    "primalbarrels:advanced_primal_barrel",
+    "primalbarrels:developed_primal_barrel"
+  ]
+}

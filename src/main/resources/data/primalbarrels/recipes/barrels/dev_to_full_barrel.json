@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        " p ",
+        "pbp",
+        " p "
+    ],
+    "key":{
+        "p":{"tag":"minecraft:planks"},
+        "b":{"item":"primalbarrels:developed_primal_barrel"}
+    },
+    "result":{"item":"minecraft:barrel"}
+}

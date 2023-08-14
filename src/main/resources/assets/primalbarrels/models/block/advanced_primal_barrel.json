@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "primalbarrels:block/advanced_primal_barrel_top",
+    "side": "primalbarrels:block/advanced_primal_barrel_side",
+    "bottom": "primalbarrels:block/advanced_primal_barrel_bottom"
+  }
+}

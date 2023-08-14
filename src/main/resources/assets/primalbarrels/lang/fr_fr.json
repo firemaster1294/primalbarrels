@@ -1,0 +1,9 @@
+{
+  "block.primalbarrels.primal_barrel": "Baril Primitif",
+  "block.primalbarrels.advanced_primal_barrel": "Baril Primitif Avancé",
+  "block.primalbarrels.developed_primal_barrel": "Baril Primitif Développé",
+
+  "itemGroup.primalbarrels": "Barils Primitifs",
+
+  "primalbarrels.in_use": "La baril est en cours d'utilisation"
+}
